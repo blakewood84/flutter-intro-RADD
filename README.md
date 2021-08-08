@@ -1,6 +1,11 @@
-# intro_to_flutter
+# An Introduction to Flutter - RADD - Redding, Ca
 
-A new Flutter project.
+This project was used for an Introduction to Flutter presentation with RADD in Redding, Ca.
+
+To run this project check out this link to get started if this is your first time running Flutter: 
+ - [Install / Setup Flutter](https://flutter.dev/docs/get-started/install)
+
+For more information on Flutter please see the Links below ↓↓↓↓
 
 ## Getting Started
 
